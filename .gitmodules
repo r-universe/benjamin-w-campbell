@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fergm"]
+	path = fergm
+	url = https://github.com/benjamin-w-campbell/fergm
+	shallow = true
+	registered = true
